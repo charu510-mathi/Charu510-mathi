@@ -1,4 +1,15 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Website</title>
+</head>
+<body>
+  <h1>Welcome to My Website 🎉</h1>
+  <p>This is my first free website hosted on GitHub Pages!</p>
+</body>
+</html>## Hi there 👋
 
 <!--
 **charu510-mathi/Charu510-mathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
